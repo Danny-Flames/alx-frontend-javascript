@@ -1,0 +1,1 @@
+This is the repository that will contain all projects for the specialization phase.
